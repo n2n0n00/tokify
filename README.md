@@ -1,4 +1,4 @@
-# Developer Portfolio
+# TikTok Clone
 
 Built with NextJS, TypeScript, ReactJS and TailwindCSS.
 
